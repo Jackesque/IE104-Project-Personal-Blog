@@ -7,8 +7,8 @@
 		"preview": "vite preview",
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
 		"format": "prettier --plugin-search-dir . --write .",
-		"d": "vite dev -- --open",
-		"devo": "vite dev -- --open"
+		"d": "vite dev --open",
+		"devo": "vite dev --open"
 	},
 	"devDependencies": {
 		"@fontsource/fira-mono": "^4.5.10",
