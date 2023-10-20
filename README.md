@@ -42,3 +42,17 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+## Tech used
+
+[Svelte](https://svelte.dev/)
+
+[Vite](https://vitejs.dev/)
+
+[Tailwind CSS](https://tailwindcss.com/) (with [Forms](https://github.com/tailwindlabs/tailwindcss-forms) and [Typography](https://github.com/tailwindlabs/tailwindcss-typography) plugin)
+
+[daisyUI](https://daisyui.com/)
+
+[ESLint](https://eslint.org/)
+
+[Prettier](https://prettier.io/)
