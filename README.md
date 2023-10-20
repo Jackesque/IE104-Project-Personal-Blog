@@ -1,6 +1,10 @@
-# create-svelte
+# IE104 Project: Personal Blog
+
+## create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+
+> Project already created, you can safely skip this part
 
 ## Creating a project
 
@@ -13,6 +17,8 @@ npm create svelte@latest
 # create a new project in my-app
 npm create svelte@latest my-app
 ```
+
+> Start here
 
 ## Developing
 
