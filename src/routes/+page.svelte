@@ -5,6 +5,7 @@
 
 	//css
 	import '../css/base.css'
+	import '../css/home.css'
 </script>
 
 <svelte:head>

@@ -12,11 +12,4 @@
     -moz-background-clip: text;
 }
 
-.content {
-    display:flex;
-    flex-direction: column;
-    width:80%;
-    font-size: 1.25rem;
-    line-height: 1.75rem;
-}
 

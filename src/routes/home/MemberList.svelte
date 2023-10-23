@@ -18,5 +18,4 @@
             <h2 class='text-xl'>MSSV:</h2>
         </div>
     </div>
-    <a href='#content1 font-white'><p>A</p></a>
 </div>
