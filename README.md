@@ -4,7 +4,7 @@
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-> Project already created, you can safely skip this part
+## Project already created, you can safely skip this part
 
 ## Creating a project
 
@@ -18,11 +18,17 @@ npm create svelte@latest
 npm create svelte@latest my-app
 ```
 
-> Start here
+# Start here
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Once you've created a project and installed dependencies with 
+
+```bash
+npm install
+```
+
+(or `pnpm install` or `yarn`), start a development server:
 
 ```bash
 npm run dev
