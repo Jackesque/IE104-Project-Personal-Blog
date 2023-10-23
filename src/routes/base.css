@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+    scroll-behavior: smooth;
+}
+
+
 .bg-clip-text {
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -15,6 +20,3 @@
     line-height: 1.75rem;
 }
 
-* {
-    scroll-behavior: smooth;
-}
