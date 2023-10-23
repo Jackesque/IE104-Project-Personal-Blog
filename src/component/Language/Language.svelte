@@ -1,38 +1,40 @@
 <script>
-    import './Progress.css'
+    import './Language.css'
 </script>
 
 <div class="container">
     <div class="skill-box">
         <span class="title">Svelte</span>
         <div class="skill-bar">
-            <span class="skill-per html">
-                <span class="tooltip">90%</span>
+            <span class="skill-per bg-red-500" style='width:41.5%'>
+                <span class="tooltip">41.5%</span>
             </span>
         </div>
     </div>
     <div class="skill-box">
         <span class="title">Javascript</span>
         <div class="skill-bar">
-            <span class="skill-per css">
-                <span class="tooltip">70%</span>
+            <span class="skill-per" style='animation-delay: 0.1s; width:29.1%'>
+                <span class="tooltip">29.1%</span>
             </span>
         </div>
     </div>
     <div class="skill-box">
         <span class="title">CSS</span>
         <div class="skill-bar">
-            <span class="skill-per javascript">
-                <span class="tooltip">50%</span>
+            <span class="skill-per javascript red" style='animation-delay: 0.2s; width:25.5%'>
+                <span class="tooltip">25.5%</span>
             </span>
         </div>
     </div>
     <div class="skill-box">
         <span class="title">HTML</span>
         <div class="skill-bar">
-            <span class="skill-per nodejs">
-                <span class="tooltip">30%</span>
+            <span class="skill-per" style='animation-delay: 0.3s; width:3.9%'>
+                <span class="tooltip">&lt;10%</span>
             </span>
         </div>
     </div>
-</div>
+</div>  
+
+

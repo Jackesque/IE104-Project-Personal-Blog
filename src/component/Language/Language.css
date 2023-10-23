@@ -24,6 +24,7 @@
     border-radius: 6px;
     margin-top: 6px;
     background: rgba(0,0,0,0.1);
+    
 }
 .skill-bar .skill-per{
     position: relative;
@@ -34,19 +35,9 @@
     background: #4070f4;
     animation: progress 0.4s ease-in-out forwards;
     opacity: 0;
+    min-width:10%;
 }
-.skill-per.css{
-    width: 70%;
-    animation-delay: 0.1s;
-}
-.skill-per.javascript{
-    width: 50%;
-    animation-delay: 0.2s;
-}
-.skill-per.nodejs{
-    width: 30%;
-    animation-delay: 0.3s;
-}
+
 @keyframes progress {
     0%{
         width: 0;
