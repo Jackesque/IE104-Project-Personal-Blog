@@ -1,5 +1,8 @@
 <script>
     import Blog from './Blog.svelte'
+
+    //css
+    import '../../css/blog.css'
 </script>
 <svelte:head>
     <title>Blog</title>

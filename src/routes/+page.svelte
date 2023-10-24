@@ -1,6 +1,6 @@
 <script>
 	import Intro from './home/Intro.svelte'
-	import MemberList from './home/MemberList.svelte'
+	import MemberList from './contact/MemberList.svelte'
 	import WebAnalyze from './home/WebAnalyze.svelte'
 
 	//css
