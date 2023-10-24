@@ -1,6 +1,6 @@
-<div id='content2' class='content mb-40 pt-24'>
+<div class='mt-20'>
     <span class='text-4xl font-bold pt-3 text-transparent bg-gradient-to-r 
-    from-yellow-400 via-red-500 to-pink-500 bg-clip-text mb-20 text-center'>🔥Thành viên trong nhóm🔥 </span>
+    from-yellow-400 via-red-500 to-pink-500 bg-clip-text h-[4rem] mb-10'>🔥Thành viên trong nhóm </span>
     <div class='grid grid-cols-3 gap-3'>
         <div class='flex flex-col items-center'>
             <img class='w-80 m-3 rounded-md' src='ava1.png' alt='Thai1'/>

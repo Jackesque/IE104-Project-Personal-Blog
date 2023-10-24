@@ -1,14 +1,14 @@
 
-.container{
+.language-container{
     position: relative;
-    width: 60%;
+    width: 70%;
     min-width:20em;
     background: #fff;
     margin: 0 15px;
     padding: 10px 20px;
     border-radius: 7px;
 }
-.container .skill-box{
+.language-container .skill-box{
     width: 100%;
     margin: 25px 0;
 }
@@ -50,7 +50,7 @@
 .skill-per .tooltip{
     position: absolute;
     right: -14px;
-    top: -34px;
+    top: -20px;
     font-size: 9px;
     font-weight: 500;
     color: #fff;

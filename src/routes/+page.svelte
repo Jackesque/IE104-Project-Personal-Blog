@@ -1,8 +1,8 @@
 <script>
 	import Intro from './home/Intro.svelte'
-	import MemberList from './home/MemberList.svelte'
-	import WebAnalyze from './home/WebAnalyze.svelte'
-
+	import MemberList from './contact/MemberList.svelte'
+	import WebAnalyze from './contact/WebAnalyze.svelte'
+	import LatestCards from './blog/LatestCards.svelte'
 	//css
 	import '../css/base.css'
 	import '../css/home.css'
@@ -10,15 +10,22 @@
 
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
-<div class='flex flex-col items-center mt-10'>
-	<Intro/>
-	
-	<MemberList/>
+<div class='container'>
+	<div>
+		<Intro/>
 
-	<WebAnalyze/>
+		<div>
+			<LatestCards/>
 			
+			<button class="btn btn-outline mt-10 hover:scale-[1.1]"><a href='./blog'>Xem thêm...</a></button>
+		</div>
+		
+	
+		<MemberList/>
+	
+		<WebAnalyze/>
+	</div>
 </div>
 	

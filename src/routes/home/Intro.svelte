@@ -1,7 +1,7 @@
-<div id='content1' class='content border-b-2 pb-60 border-grey-400'>
-    <h1 class='text-3xl font-bold'>Chào!</h1>
+<div>
+    <h1 class='text-3xl font-bold'>Chào !</h1>
     <h1 class='text-4xl font-bold pt-3'>Đây là đồ án blog cá nhân của 
-    <span class=' text-transparent bg-gradient-to-r from-emerald-300 via-teal-400 to-teal-500 bg-clip-text'>Nhóm 2</span>
+    <span class=' text-transparent bg-gradient-to-r from-emerald-300 via-teal-400 to-teal-500 bg-clip-text text-5xl'>Nhóm 2</span>
     </h1>
     <p class='pt-3'>Như tiêu đề và tính chất đồ án nhóm mình đăng ký, đây là blog cá nhân của nhóm<br>
     Trang web phần lớn được viết bằng framework Sveltekit, CSS Tailwind và Javascript </p>
