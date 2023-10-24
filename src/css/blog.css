@@ -17,6 +17,7 @@
 .card .context {
     margin:0.5em;
     overflow: hidden;
+    max-height:10em;
 }
 
 .card h2 {

@@ -1,8 +1,8 @@
 <script>
 	import Intro from './home/Intro.svelte'
 	import MemberList from './contact/MemberList.svelte'
-	import WebAnalyze from './home/WebAnalyze.svelte'
-
+	import WebAnalyze from './contact/WebAnalyze.svelte'
+	import LatestCards from './blog/LatestCards.svelte'
 	//css
 	import '../css/base.css'
 	import '../css/home.css'
@@ -15,6 +15,13 @@
 <div class='container'>
 	<div>
 		<Intro/>
+
+		<div>
+			<LatestCards/>
+			
+			<button class="btn btn-outline mt-10 hover:scale-[1.1]"><a href='./blog'>Xem thêm...</a></button>
+		</div>
+		
 	
 		<MemberList/>
 	

@@ -1,5 +1,9 @@
 <script>
-    import MemberList from "./MemberList.svelte";
+    import MemberList from "./MemberList.svelte"
+    import WebAnalyze from "./WebAnalyze.svelte";
+
+    //css
+    import '../../css/contact.css'
 </script>
 <svelte:head>
     <title>Contact</title>
@@ -8,5 +12,7 @@
 <div class='flex flex-col items-center w-[80%]'>
     <div>
         <MemberList/>
+        
+        <WebAnalyze/>
     </div>
 </div>

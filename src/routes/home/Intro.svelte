@@ -1,4 +1,4 @@
-<div id='content1' class='content'>
+<div>
     <h1 class='text-3xl font-bold'>Chào !</h1>
     <h1 class='text-4xl font-bold pt-3'>Đây là đồ án blog cá nhân của 
     <span class=' text-transparent bg-gradient-to-r from-emerald-300 via-teal-400 to-teal-500 bg-clip-text text-5xl'>Nhóm 2</span>

@@ -5,7 +5,7 @@
 <header>
 	<div>
 		<div class='w-full h-2 bg-gradient-to-r from-green-400 via-emerald-500 to-teal-400'></div>
-		<div class='flex justify-center pt-5 bg-black'>
+		<div class='flex justify-center pt-5 bg-black pb-1'>
 			<div class='flex justify-between w-4/5'>
 				<ul class='flex gap-8 text-base font-medium'>
 					<li class='pt-2' aria-current={$page.url.pathname === '/' ? '1' : undefined}><a href='/'><span>Home</span></a></li>

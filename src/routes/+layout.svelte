@@ -6,7 +6,7 @@
 
 
 <div class="flex flex-col bg-black min-h-screen text-white w-full">
-	<div class='sticky top-0 mb-10'>
+	<div class='sticky top-0 mb-10 z-10'>
 		<Navbar/>
 	</div>
 

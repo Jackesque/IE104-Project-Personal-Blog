@@ -1,4 +1,4 @@
-<div id='content2' class='content pt-24'>
+<div class='mt-20'>
     <span class='text-4xl font-bold pt-3 text-transparent bg-gradient-to-r 
     from-yellow-400 via-red-500 to-pink-500 bg-clip-text h-[4rem] mb-10'>🔥Thành viên trong nhóm </span>
     <div class='grid grid-cols-3 gap-3'>
