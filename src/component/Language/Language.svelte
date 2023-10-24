@@ -1,8 +1,8 @@
 <script>
-    import './Language.css'
+    import '../../css/Language.css'
 </script>
 
-<div class="container">
+<div class="language-container">
     <div class="skill-box">
         <span class="title">Svelte</span>
         <div class="skill-bar">

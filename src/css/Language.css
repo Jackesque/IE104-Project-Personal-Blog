@@ -1,14 +1,14 @@
 
-.container{
+.language-container{
     position: relative;
-    width: 60%;
+    width: 70%;
     min-width:20em;
     background: #fff;
     margin: 0 15px;
     padding: 10px 20px;
     border-radius: 7px;
 }
-.container .skill-box{
+.language-container .skill-box{
     width: 100%;
     margin: 25px 0;
 }

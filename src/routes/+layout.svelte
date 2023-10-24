@@ -2,12 +2,15 @@
 	import Navbar from '../component/Navbar/Navbar.svelte'
 	import '../css/base.css'
 </script>
+
+
+
 <div class="flex flex-col bg-black min-h-screen text-white w-full">
 	<div class='sticky top-0 mb-10'>
 		<Navbar/>
 	</div>
 
-	<main class='flex flex-col flex-1'>
+	<main class='flex flex-1 flex-col items-center'>
 		<slot />
 	</main>
 

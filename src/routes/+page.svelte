@@ -10,15 +10,15 @@
 
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
-<div class='flex flex-col items-center mt-10'>
-	<Intro/>
+<div class='container'>
+	<div>
+		<Intro/>
 	
-	<MemberList/>
-
-	<WebAnalyze/>
-			
+		<MemberList/>
+	
+		<WebAnalyze/>
+	</div>
 </div>
 	
