@@ -1,6 +1,6 @@
 <script>
-    import ava1 from '$img/ava1.png'
-    import ava2 from '$img/ava2.jpg'
+    import ava1 from '$lib/images/ava1.png'
+    import ava2 from '$lib/images/ava2.jpg'
 </script>
 
 <div class='mt-20'>

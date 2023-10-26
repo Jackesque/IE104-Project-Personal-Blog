@@ -1,5 +1,5 @@
 <script>
-    import card2 from '$img/card2.png'
+    import card2 from '$lib/images/card2.png'
 </script>
 
 <div class='w-[80%] flex flex-col'>
