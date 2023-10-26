@@ -17,7 +17,7 @@
 				</ul>
 				
 				<div class='w-12 rounded-xl bg-white'>
-					<img class='p-2' src='{base}/images/sun.png' alt='sun.png'/>
+					<img class='p-2' src={`${base}/images/sun.png`} alt='sun.png'/>
 				</div>
 			</div>
 		</div>
