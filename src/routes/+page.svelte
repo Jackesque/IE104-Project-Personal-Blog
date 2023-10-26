@@ -27,14 +27,6 @@
     
     <span id="content3"></span>
 		<WebAnalyze/>
-    <div>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae mollitia eos provident ea libero? Commodi eum, quis ratione repellat in esse quibusdam eos incidunt, perferendis corrupti ipsam fuga, numquam reiciendis.</div>
-    <div>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae mollitia eos provident ea libero? Commodi eum, quis ratione repellat in esse quibusdam eos incidunt, perferendis corrupti ipsam fuga, numquam reiciendis.</div>
-    <div>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae mollitia eos provident ea libero? Commodi eum, quis ratione repellat in esse quibusdam eos incidunt, perferendis corrupti ipsam fuga, numquam reiciendis.</div>
-    <div>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae mollitia eos provident ea libero? Commodi eum, quis ratione repellat in esse quibusdam eos incidunt, perferendis corrupti ipsam fuga, numquam reiciendis.</div>
-    <div>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae mollitia eos provident ea libero? Commodi eum, quis ratione repellat in esse quibusdam eos incidunt, perferendis corrupti ipsam fuga, numquam reiciendis.</div>
-    <div>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae mollitia eos provident ea libero? Commodi eum, quis ratione repellat in esse quibusdam eos incidunt, perferendis corrupti ipsam fuga, numquam reiciendis.</div>
-    <div>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae mollitia eos provident ea libero? Commodi eum, quis ratione repellat in esse quibusdam eos incidunt, perferendis corrupti ipsam fuga, numquam reiciendis.</div>
-    <div>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae mollitia eos provident ea libero? Commodi eum, quis ratione repellat in esse quibusdam eos incidunt, perferendis corrupti ipsam fuga, numquam reiciendis.</div>
 	</div>
 </div>
 	
