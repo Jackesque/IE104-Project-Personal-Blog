@@ -11,7 +11,9 @@ const config = {
 		adapter: adapter(),
 
 		alias: {
-			$img: "src/lib/images"
+			$img: "src/lib/images",
+
+  
 		}
 	},
 
