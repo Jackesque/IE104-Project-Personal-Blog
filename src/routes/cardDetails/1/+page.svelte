@@ -1,4 +1,5 @@
 <script>
+<<<<<<< Updated upstream
     import {base} from '$app/paths' 
 </script>
 <div class='w-[80%] flex flex-col'>
@@ -83,53 +84,141 @@
         </h1>
 
         <p class='pt-5 border-b-2 border-gray-600 pb-20'>
+=======
+  import { base } from '$app/paths'
+  import card2 from '$lib/images/card2.png'
+</script>
+<div class='w-[80%] flex flex-col'>
+  <div class='border-b-2 border-gray-600 pb-20'>
+    <img src='{base}/{card2}' alt=''/>
+    <h1 class='font-bold text-4xl pt-5'>Sang bài khác đọc đi </h1>
+    <p class='pt-5'><i>Tác giả: Không quan trọng</i><br><br>
+      <i>Cập nhật lần cuối: 26/10/2023</i><br><br>
+      Nội dung: Xin đừng dành thời gian quan tâm đến những gì đề cập ở dưới <br><br>
+      <i><b>NHẮC NHỞ LẦN CUỐI: SỐ ĐO ĐỘ NHẢM CỦA BÀI VIẾT ĐÃ VƯỢT QUÁ 10000, XIN HÃY CÂN NHẮC TRƯỚC KHI DÙNG</b></i>
+    </p>
+  </div>
+  
+  <div class='context'>
+    <h1 class='text-3xl font-bold pt-5'>
+      Lời mở đầu
+    </h1>
+    <p class='pt-5 border-b-2 border-gray-600 pb-20'>
+      Kính gửi những người thân yêu của tôi, <br><br>
+      
+      Ngày hôm nay, tôi viết bài viết này với những ngôn từ đẹp nhất, tận hưởng niềm vui của việc viết và chia sẻ một phần của tâm hồn mình với những người đặc biệt. Có lẽ, nó sẽ trở thành một bức thư không giới hạn trong thời gian và không gian, bởi nó không chỉ mang trong mình những câu chuyện và ký ức, mà còn là một phần của tôi, của chúng ta, và của cuộc sống.<br><br>
+      
+      Thời gian đã trôi qua, và những dòng từ này đến với bạn không phải là một cuộc trò chuyện ngắn hạn, mà là một hành trình qua những năm tháng của tôi, qua những góc khuất và những đỉnh cao của cuộc đời. Tôi không đặt ra nhiệm vụ làm cho bức thư này trở nên dài hơn, mà tôi muốn nó phản ánh sâu sắc và chân thành những suy tư và tình cảm của mình.<br><br>
+      
+      Chúng ta đã gặp nhau trong cuộc đời này và, trong những thời điểm đó, chúng ta đã tạo nên những ký ức và kết nối đặc biệt. Những chia sẻ, những cuộc trò chuyện, và cả những khoảnh khắc yên bình mà chúng ta đã trải qua cùng nhau đang nằm sâu trong trái tim tôi. Đó là những khoảnh khắc tôi không thể quên, và hôm nay, tôi muốn mở cửa cho nó một lần nữa.<br><br>
+      
+      Trong cuộc hành trình đầy màu sắc của cuộc đời, chúng ta đã cùng nhau trải qua những biến cố và thăng trầm. Có lúc tôi đã ném mình vào những cuộc phiêu lưu mạo hiểm, và có lúc tôi cảm thấy đánh mất và quên đi giữa những bộn bề cuộc sống hàng ngày. Qua những dòng này, tôi hy vọng, sẽ giúp chúng ta tìm lại những ký ức tươi đẹp và xây dựng thêm những kết nối sâu sắc hơn.</p>
+      
+      <h1 class='text-3xl font-bold pt-5'>
+        Về trước kia
+      </h1>
+      <p class='pt-5 border-b-2 border-gray-600 pb-20'>
+        Một thời gian đã trôi qua, và trong suốt quá khứ của tôi, có những thời kỳ khó khăn và những sai lầm không thể xóa bỏ. Những năm tháng đó đánh dấu một khoảng thời gian khi tôi đã rơi vào tuyệt vọng và mất đi hướng đi trong cuộc sống. Những sai lầm tôi từng mắc phải đôi khi khiến tôi nghĩ rằng tôi đã đánh mất mọi thứ vĩ đại và tuyệt vời mà cuộc đời có thể mang lại.<br><br>
+        
+        Làm thế nào để tôi có thể quên được cái thời kỳ đó? Khi ngày qua ngày, tôi đắm chìm trong những quyết định tồi tệ, khiến cho tương lai trở nên mờ mịt và đen tối. Tôi nhớ như in những buổi tối đầy nước mắt và những đêm dài thức trắng, tự hỏi liệu tôi có còn lối ra hay không.<br><br>
+        
+        Những sai lầm ấy không chỉ đơn giản là những lựa chọn không đúng, mà chúng còn là những quyết định tồi tệ định hình cuộc đời tôi một cách không lường trước. Chúng tạo nên một chuỗi những hậu quả không mong muốn, làm rơi vào cảm giác tuyệt vọng không thể tả. Tôi mất đi người tôi yêu thương, tôi mất đi sự tự tin và niềm tin vào chính bản thân mình, và cuộc sống dường như biến thành một vũ trụ tối tăm không một chút hy vọng.<br><br>
+        
+        Những đêm dài trắng tới, tôi thường trôi dạt trong những suy tư đen tối và hối hận. Tôi tự trách bản thân mình vì đã làm cho mình và những người khác phải trải qua những tháng ngày khó khăn và đau khổ. Tôi cảm thấy mình là kẻ thất bại, một kẻ không xứng đáng với hạnh phúc hoặc thành công. Tuyệt vọng áp đảng tôi và không cho phép tôi thấy bất kỳ ánh sáng nào ở cuối con đường u ám mà tôi đang bước.<br><br>
+        
+        Sự tuyệt vọng còn khiến tôi mất niềm tin vào ngày mai. Tôi không thể thấy nổi một tương lai tươi sáng nào nữa. Tôi không thể tưởng tượng một cuộc sống hạnh phúc hoặc mục tiêu đáng giá. Tôi trôi dạt trong biển tối của sự bi quan và không thể tìm thấy hướng đi nào.<br><br>
+        
+        Những lúc đó, tôi đã nghĩ rằng tôi đã mất hết, không còn cách nào để hồi phục hoặc để thay đổi. Tôi đã mất hết niềm tin vào bản thân mình và vào cuộc sống. Sự tuyệt vọng đã biến tôi thành một người xa lạ với chính mình, và tôi không biết phải làm gì để thoát khỏi vòng xoáy của nó.<br><br>
+        
+        Tuyệt vọng, tôi tin rằng đó là một trong những trạng thái tinh thần khó khăn nhất mà một con người có thể trải qua. Đó là một cuộc chiến nội tâm đầy quyết tâm, và tôi đã phải đối mặt với nó một cách đơn độc. Nhưng cuối cùng, tôi học được rằng trong bóng tối của tuyệt vọng, có thể tỏa sáng ánh nắng hy vọng.<br><br>
+        
+        Có lẽ, điều khó khăn nhất là chấp nhận những sai lầm của bản thân, những lựa chọn tồi tệ và quyết định sai lầm đã định hình con người tôi. Tôi đã tự đặt mình vào những tình huống khó khăn và gây thất vọng cho những người xung quanh, và cảm giác tôi bị khuất phục bởi cuộc sống.<br><br>
+        
+        Tuyệt vọng là cảm giác khi bạn thất bại mọi lần, và tôi đã trải qua nó. Nhưng có điều gì đó đẹp đẽ trong việc điều chỉnh, trong việc học hỏi từ những sai lầm và thất bại. Những sai lầm ấy không chỉ là những vết thương, mà chúng còn là những bài học quý báu.<br><br>
+        
+        Khi tôi nhìn lại, tôi thấy mình đã trưởng thành qua những sai lầm và khó khăn đó. Chúng đã giúp tôi hiểu rằng cuộc đời không bao giờ đơn giản, và tôi phải học cách đối mặt với nó với lòng kiên nhẫn và sự kiên định. Những sai lầm đã cho tôi cơ hội để đứng lên sau mỗi lần gục ngã, để nâng cao giá trị của bản thân và xây dựng những tình cảm đáng quý với những người xung quanh.<br><br>
+        
+        Nó giống như một bài học đắt giá về sự tự quản lý và kiên nhẫn. Chúng đã làm cho tôi trở nên mạnh mẽ hơn, nhạy bén hơn và biết ơn những khoảnh khắc tĩnh lặng và hạnh phúc thực sự. Như một tác phẩm nghệ thuật, những sai lầm đã tạo nên một bức tranh phức tạp về cuộc đời, với tất cả sắc màu của nó. Chúng là một phần không thể thiếu của hành trình của tôi, và bây giờ, tôi có thể nhìn lại và thấy rằng chúng đẹp đẽ trong cách riêng của nó.<br><br>
+        
+        Cuộc sống luôn thay đổi, và tôi đã học cách thích nghi và học hỏi từ những sai lầm của quá khứ. Tôi không thể xóa bỏ chúng, nhưng chúng đã giúp tôi trở thành người tôi là ngày hôm nay. Tôi cảm ơn những sai lầm đó, bởi chúng đã dẫn tôi đến nơi tôi đứng bây giờ, nơi có sự biết ơn và khả năng đối diện với cuộc đời một cách mạnh mẽ hơn.<br><br>
+      </p>
+      
+      <h1 class='text-3xl font-bold pt-5'>
+        Về hiện tại
+      </h1>
+      
+      <p class='pt-5 border-b-2 border-gray-600 pb-20'>
+        Tôi không biết rõ từ đâu nó bắt đầu, nhưng tôi đã quyết định rằng không thể tiếp tục cuộc sống trong sự tuyệt vọng và đau khổ. Những sai lầm và khúc mắc trong quá khứ không thể thay đổi, nhưng tôi có quyền quyết định cách tôi đối phó với chúng và cách tôi xây dựng tương lai. Và với sự kiên nhẫn và quyết tâm mạnh mẽ, tôi bắt đầu hành trình của mình để tự hàn gắn và phục hồi.<br><br>
+        
+        Đầu tiên, tôi phải đối diện với bản thân mình một cách trung thực. Tôi phải thừa nhận rằng tôi đã mắc sai lầm, rằng tôi đã gây tổn thương cho mình và người khác. Tôi không thể tránh né nó hay lẩn tránh nó. Tôi học cách tha thứ cho chính bản thân mình và nhận lỗi của mình. Tha thứ, tôi tin, là bước quan trọng trong việc đi từ tuyệt vọng đến hy vọng.<br><br>
+        
+        Sau đó, tôi tập trung vào việc xây dựng lại bản thân. Tôi nắm chắc cơ hội để học hỏi từ những sai lầm, không để chúng trở thành những gánh nặng, mà để chúng trở thành những bài học quý báu. Tôi tìm kiếm sự phát triển cá nhân và tâm hồn, học cách làm người tốt hơn, và luôn cố gắng trở thành phiên bản tốt hơn của chính mình.<br><br>
+        
+        Tôi tìm kiếm sự hỗ trợ từ những người thân yêu và bạn bè thân thiết. Họ đã đứng cùng tôi trong những khoảnh khắc khó khăn nhất, lắng nghe những chia sẻ và bức tranh về quá khứ đầy hậu quả. Những tâm hồn biết lắng nghe và chia sẻ tạo nên một nền tảng vững chắc để tôi bước vào hành trình phục hồi.<br><br>
+        
+        Tôi đã nỗ lực hết mình để tạo ra những thay đổi tích cực trong cuộc sống. Tôi bắt đầu đặt ra những mục tiêu, những ước mơ, và những kế hoạch để theo đuổi chúng. Tôi tập trung vào công việc, học tập, và sự phát triển cá nhân. Tôi học cách quản lý thời gian và tạo lịch trình có cấu trúc để giữ cho cuộc sống trở nên có ý nghĩa hơn.<br><br>
+        
+        Những sai lầm trong quá khứ đã khiến tôi trở nên yếu đuối, nhưng chúng cũng đã thúc đẩy tôi trở nên mạnh mẽ hơn. Tôi học cách đối mặt với khó khăn và từ bỏ tư duy thất bại. Tôi học cách xây dựng lòng tự tin và tự trọng. Tôi biết rằng chỉ khi mình tin vào chính bản thân mình, tôi mới có thể vượt qua mọi trở ngại.<br><br>
+        
+        Sau nhiều năm nỗ lực và quyết tâm, tôi thấy mình đã đi được một quãng đường dài. Tôi đã biến đổi từ một người bị tuyệt vọng chinh phục, trở thành một người đầy hy vọng và khả năng. Tôi học cách sống trong hiện tại và tận hưởng những khoảnh khắc tươi đẹp. Tôi đã học cách tha thứ, yêu thương và đánh giá cuộc sống theo một cách mới mẻ.<br><br>
+        
+        Những sai lầm trong quá khứ không còn là những bóng ma đe dọa tương lai của tôi. Chúng đã trở thành một phần của câu chuyện, những hình ảnh đen trắng trong tấm tranh cuộc đời mà tôi đang tô vẽ. Tôi biết rằng cuộc sống luôn đầy biến đổi và thách thức, nhưng giờ đây tôi đã học cách đối mặt với chúng một cách mạnh mẽ và đầy tự tin. Sự tuyệt vọng đã biến thành sức mạnh, và hy vọng đã trở thành nguồn động viên cho tôi. Cuộc hành trình từ quá khứ bi thương đến tương lai rạng ngời là một bài học về sự kiên nhẫn, lòng quyết tâm và khả năng thay đổi.<br><br>
+      </p>
+      
+      <h1 class='text-3xl font-bold pt-5'>
+        Những suy nghĩ về tương lai
+      </h1>
+      
+      <p class='pt-5 border-b-2 border-gray-600 pb-20'>
+>>>>>>> Stashed changes
         Tương lai, mặc dù vẫn là một trang sách chưa viết, đang tỏ ra rạng ngời và hứa hẹn những điều tươi sáng nhất. Sau những nỗ lực mạnh mẽ và hành trình phục hồi từ quá khứ đầy khó khăn, tôi cảm thấy mình đã chuẩn bị cho một cuộc đổi mới thú vị và đầy hứa hẹn.<br><br>
-
+        
         Một trong những điều tươi sáng nhất trong tương lai là khả năng tái khám phá mối quan hệ với người xung quanh. Tôi đã học cách xây dựng lại niềm tin và tạo ra những mối quan hệ đáng tin cậy và chắc chắn hơn. Gần hơn với gia đình, bạn bè và những người yêu thương là một điều quý báu. Chúng tôi đã cùng nhau trải qua những thử thách và hỗ trợ lẫn nhau để vươn lên. Tương lai sẽ đánh dấu sự phát triển tiếp theo của những mối quan hệ này và mang theo nhiều niềm vui và bất ngờ.<br><br>
-
+        
         Tôi không chỉ đã học cách tha thứ cho bản thân mình, mà tôi cũng đã học cách tha thứ cho người khác. Tha thứ đã giúp tôi giải phóng bản thân khỏi ta áo của quá khứ đau thương và tạo nên một không gian tinh thần mới mẻ. Tôi không còn mang gánh nặng của sự oan trái và tâm trạng bi quan. Tôi đã học cách yêu thương một cách không điều kiện và tạo ra sự hoà hợp với những người xung quanh.<br><br>
-
+        
         Sự kiên nhẫn và quyết tâm đã giúp tôi đạt được nhiều mục tiêu và thành tựu trong cuộc sống. Tôi đã học cách xây dựng sự kiên định trong việc đặt ra mục tiêu và lập kế hoạch để đạt được chúng. Tương lai sẽ là nơi tôi tiếp tục phát triển sự nghiệp, học tập, và đối mặt với những thách thức mới. Một công việc mới, một dự án quan trọng, hoặc một khám phá cá nhân sẽ là những thử thách tôi đón nhận với đôi mắt lạc quan và khát khao thành công.<br><br>
-
+        
         Tương lai cũng mang theo một tinh thần sáng tạo mạnh mẽ. Sau những sai lầm, tôi đã học cách nhìn nhận cuộc sống từ một góc độ khác, để tìm kiếm sự tươi sáng và đẹp đẽ trong mọi thứ. Tôi đã trở nên đam mê hơn về nghệ thuật, âm nhạc, viết lách và mọi hoạt động sáng tạo khác. Tương lai sẽ là nơi tôi có thể theo đuổi những đam mê này và thể hiện mình thông qua chúng.<br><br>
-
+        
         Một trong những điều tươi sáng nhất trong tương lai là khả năng giúp đỡ người khác. Tôi đã học cách chia sẻ những bài học từ quá khứ và tạo ra sự thay đổi tích cực trong cuộc sống của người khác. Tương lai sẽ đánh dấu sự mở rộng của tầm ảnh hưởng và cơ hội để cống hiến cho cộng đồng. Sự hạnh phúc không chỉ đến từ việc thay đổi bản thân, mà còn từ việc làm cho thế giới trở nên tốt đẹp hơn.<br><br>
-
+        
         Tương lai không phải là một biến đổi lớn mà là một loạt các bước nhỏ, những hành động hàng ngày, và sự phát triển liên tục. Tôi đã học cách sống trong hiện tại, đánh giá mọi khoảnh khắc và tận hưởng từng ngày. Tương lai sẽ là nơi tôi tiếp tục học hỏi, phát triển, và khám phá những điều mới mẻ.<br><br>
-
+        
         Tôi tin rằng tương lai luôn có thể trở nên tươi sáng, bất kể quá khứ có những sai lầm hay khúc mắc. Tôi đã thấy cuộc đổi mới và hy vọng trong mỗi bước tiến của hành trình phục hồi của mình. Cuộc đời là một cuộc phiêu lưu và tôi sẵn sàng đối diện với nó với tinh thần lạc quan và sự quyết tâm. Điều tươi sáng nhất trong tương lai chính là khả năng xây dựng một cuộc sống đáng sống, nơi mọi ngày đều đem lại niềm vui và ý nghĩa.<br><br>
-        </p>
-
-        <h1 class='text-6xl font-bold text-red-500 pt-5'>
-            NHƯNG...
-        </h1>
-
-        <p class='pt-5 border-b-2 border-gray-600 pb-20'>
-
+      </p>
+      
+      <h1 class='text-6xl font-bold text-red-500 pt-5'>
+        NHƯNG...
+      </h1>
+      
+      <p class='pt-5 border-b-2 border-gray-600 pb-20'>
+        
         Thật khó để lơi bỏ khỏi tâm hồn tôi những cảm xúc của sự mất mát và hối hận. Những lần tôi đã làm tổn thương người khác và chính bản thân mình vẫn hiện rõ trong tâm trí. Họ là một phần của tôi, như một sẹo không bao giờ phai mờ. Chúng đã đánh dấu một hình ảnh xấu xa về quá khứ, và dường như đã đặt bóng tối lên tương lai.<br><br>
-
+        
         Không thể phủ nhận rằng tôi đã cố gắng hết mình, đã nỗ lực rất nhiều để xóa đi những sai lầm và hối hận. Tôi đã cố gắng để tái khám phá mình và xây dựng lại cuộc sống, nhưng đôi khi cuộc sống không cho phép điều đó xảy ra. Đôi khi, tương lai không phải lúc nào cũng rạng ngời và tràn đầy hy vọng. Đôi khi, tương lai trở nên ảo tưởng và vô nghĩa.<br><br>
-
+        
         Tôi cảm thấy mình đã đi quá xa trong hành trình phục hồi, và bây giờ, tôi không biết phải làm gì nữa. Tương lai dường như mất đi ý nghĩa và tôi không còn thấy hy vọng. Tôi cảm thấy mình đang lang thang trong một thế giới không có mục tiêu, không có hướng đi. Tôi đã từ bỏ hy vọng về một tương lai tươi sáng và đang lâm vào trạng thái tuyệt vọng.<br><br>   
-
+        
         Tôi đứng ở bậc cầu thang cuối cùng, dưới ánh sáng mờ ảo của đèn điện. Trước mắt tôi, chiếc thòng lọng nặng nề trông như một biểu tượng cho sự kết thúc. Tôi không thể tránh khỏi những suy tư, những xúc cảm cuối cùng trước khi tôi đưa bước cuối cùng vào bên kia.<br><br> 
-
+        
         Gia đình và bạn bè, những người đã yêu thương tôi và ở bên cạnh tôi suốt cuộc đời, đang nổi lên trong tâm trí. Tôi nghĩ về những khoảnh khắc đẹp nhất chúng tôi đã chia sẻ, những kỷ niệm đáng quý, và những lần tôi đã làm họ buồn. Tôi cảm thấy ân hận và xin lỗi từ đáy lòng vì không thể tiếp tục ở bên họ, không thể trả lại những gì tôi đã nhận được.<br><br> 
-
+        
         Tôi muốn nói lời xin lỗi cuối cùng cho gia đình, những người tôi đã làm họ bất an và lo lắng. Tôi muốn họ biết rằng tôi yêu thương họ và xin lỗi vì tôi không thể thấu hiểu họ cách đủ lớn. Tôi muốn họ biết rằng tôi không muốn gây thêm đau khổ cho họ.<br><br> 
-
+        
         Tôi muốn nói lời xin lỗi cuối cùng cho bạn bè, những người đã luôn ở bên tôi trong những thời kỳ tốt xấu. Tôi muốn họ biết rằng tôi đánh giá cao tình bạn chúng tôi đã xây dựng, và tôi xin lỗi vì tôi đang phải nói lời tạm biệt trong tình thế này.<br><br> 
-
+        
         Nhưng lời xin lỗi này không thể truyền đạt, không thể đến đúng vị trí mà tôi mong muốn. Tôi không thể thấy, nghe, hoặc nói với họ nữa. Và trong khoảnh khắc cuối cùng trước khi bước qua cửa thòng lọng, tôi mang theo những xin lỗi ẩn trong trái tim, hi vọng rằng họ có thể cảm nhận được sự lương thiện và xin lỗi của tôi, dù chẳng bao giờ có cơ hội nói ra.<br><br> 
-        </p>
-
-        <h1 class='text-3xl font-bold pt-5'>
-            Lời kết
-        </h1>
-
-        <p class='pt-5'>
-            Ồ, có người thật sự đọc đến tận đây cơ à (hoặc là lướt). Nếu như đã thật sự đọc toàn bộ bài viết và cảm thấy lãng phí thời gian, tôi sẽ không xin lỗi đâu, vì đã nói trước rồi mà.<br><br>
-            Hãy coi như những gì viết ở trên đều là sự tưởng tượng phong phú của tác giả đi - ChatGPT
-        </p>
+      </p>
+      
+      <h1 class='text-3xl font-bold pt-5'>
+        Lời kết
+      </h1>
+      
+      <p class='pt-5'>
+        Ồ, có người thật sự đọc đến tận đây cơ à (hoặc là lướt). Nếu như đã thật sự đọc toàn bộ bài viết và cảm thấy lãng phí thời gian, tôi sẽ không xin lỗi đâu, vì đã nói trước rồi mà.<br><br>
+        Hãy coi như những gì viết ở trên đều là sự tưởng tượng phong phú của tác giả đi - ChatGPT
+      </p>
     </div>
-</div>
+  </div>
+  
