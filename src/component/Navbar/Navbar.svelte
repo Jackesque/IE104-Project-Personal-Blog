@@ -1,6 +1,7 @@
 <script>
 	import { page } from "$app/stores";
   import darkMode from '$lib/images/sun.png'
+  import { base } from '$app/paths'
 </script>
 
 <header>
@@ -9,10 +10,10 @@
 		<div class='flex justify-center pt-5 bg-black pb-1'>
 			<div class='flex justify-between w-4/5'>
 				<ul class='flex gap-8 text-base font-medium'>
-					<li class='pt-2' aria-current={$page.url.pathname === '/' ? '1' : undefined}><a href='/'><span>Home</span></a></li>
-					<li class='pt-2' aria-current={$page.url.pathname === '/blog' ? '1' : undefined}><a href='/blog'><span>Blog</span></a></li>
-					<li class='pt-2' aria-current={$page.url.pathname === '/feature' ? '1' : undefined}><a href='/feature'><span>Feature</span></a></li>
-					<li class='pt-2' aria-current={$page.url.pathname === '/about' ? '1' : undefined}><a href='/about'><span>About</span></a></li>
+					<li class='pt-2' aria-current={$page.url.pathname === '/' ? '1' : undefined}><a href='{base}/'><span>Home</span></a></li>
+					<li class='pt-2' aria-current={$page.url.pathname === '/blog' ? '1' : undefined}><a href='{base}/blog'><span>Blog</span></a></li>
+					<li class='pt-2' aria-current={$page.url.pathname === '/feature' ? '1' : undefined}><a href='{base}/feature'><span>Feature</span></a></li>
+					<li class='pt-2' aria-current={$page.url.pathname === '/about' ? '1' : undefined}><a href='{base}/about'><span>About</span></a></li>
 
 				</ul>
 				
