@@ -10,28 +10,23 @@
       <div class='flex justify-between w-4/5'>
         <ul class='flex gap-8 text-base font-medium'>
 
-          <!-- If code not work change `${base}/` to '/' -->
           <li class='pt-2' aria-current={$page.url.pathname === '/' ? '1' : undefined}>
-            <!-- <li class='pt-2'> -->
               <a href='{base}/'><span>Home</span></a>
             </li>
             <li class='pt-2' aria-current={$page.url.pathname === '/blog' ? '1' : undefined}>
-              <!-- <li class='pt-2'> -->
                 <a href='{base}/blog'><span>Blog</span></a>
               </li>
               <li class='pt-2' aria-current={$page.url.pathname === '/feature' ? '1' : undefined}>
-                <!-- <li class='pt-2'> -->
                   <a href='{base}/feature'><span>Feature</span></a>
                 </li>
                 <li class='pt-2' aria-current={$page.url.pathname === '/contact' ? '1' : undefined}>
-                  <!-- <li class='pt-2'> -->
                     <a href='{base}/contact'><span>Contact</span></a>
                   </li>
                   
                 </ul>
                 
                 <div class='w-12 rounded-xl bg-white'>
-                  <img class='p-2' src='sun.png' alt='sun.png'/>
+                  <img class='p-2' src='./sun.png' alt='sun'/>
                 </div>
               </div>
             </div>
