@@ -3,6 +3,7 @@
 	import MemberList from './about/MemberList.svelte'
 	import WebAnalyze from './about/WebAnalyze.svelte'
 	import LatestCards from './blog/LatestCards.svelte'
+  import { base } from '$app/paths'
 	//css
 	import '../css/base.css'
 	import '../css/home.css'
@@ -19,7 +20,7 @@
 		<div>
 			<LatestCards/>
 			
-			<a href='/blog'><button class="btn btn-outline mt-10 hover:scale-[1.1]">Xem thêm...</button></a>
+			<a href='{base}/blog'><button class="btn btn-outline mt-10 hover:scale-[1.1]">Xem thêm...</button></a>
 		</div>
 		
     <span id="content2"></span>
