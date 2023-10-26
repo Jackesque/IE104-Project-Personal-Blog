@@ -1,6 +1,5 @@
 <script>
 	import { page } from "$app/stores";
-  import darkMode from '$img/sun.png'
   import { base } from '$app/paths'
 </script>
 

@@ -1,6 +1,5 @@
 <script>
-    import ava1 from '$img/ava1.png'
-    import ava2 from '$img/ava2.jpg'
+    import {base} from '$app/paths'
 </script>
 
 <div class='mt-20'>
@@ -8,12 +7,12 @@
     from-yellow-400 via-red-500 to-pink-500 bg-clip-text h-[4rem] mb-10'>🔥Thành viên trong nhóm </span>
     <div class='grid grid-cols-3 gap-3'>
         <div class='flex flex-col items-center'>
-            <img class='w-80 m-3 rounded-md' src='{ava1}' alt='Thai1'/>
+            <img class='w-80 m-3 rounded-md' src='{base}/images/ava1.png' alt='Thai1'/>
             <h1 class='text-2xl font-medium m-1'>Trần Duy Thái</h1>
             <h2 class='text-xl'>MSSV:21522582</h2>
         </div>
         <div class='flex flex-col items-center'>
-            <img class='w-80 m-3 rounded-md' src='{ava2}' alt='Tien'/>
+            <img class='w-80 m-3 rounded-md' src='{base}/images/ava2.jpg' alt='Tien'/>
             <h1 class='text-2xl font-medium m-1'>Trần Quang Tiến</h1>
             <h2 class='text-xl'>MSSV:</h2>
         </div>

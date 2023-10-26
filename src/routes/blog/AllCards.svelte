@@ -1,6 +1,6 @@
 <script>
     import '../../css/blog.css'
-    import card from '$img/card.png'    
+    import {base} from '$app/paths'  
 </script>
 <div class='mt-20'> 
     <h2 class='text-4xl font-bold text-transparent bg-gradient-to-r 
@@ -8,7 +8,7 @@
     <ul class='card-container grid gap-5 xl:grid-cols-3 mt-5 md:grid-cols-2 sm:grid-cols-1'>
         <li class='card'>
             <a href='/cardDetails/1'>
-                <img src='{card}' alt='card'/>
+                <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
                     <p><b><i>20/10/2023</i></b></p>
@@ -18,7 +18,7 @@
         </li>
         <li class='card'>
             <a href='/cardDetails/1'>
-                <img src='{card}' alt='card'/>
+                <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
                     <p><b><i>20/10/2023</i></b></p>
@@ -28,7 +28,7 @@
         </li>
         <li class='card'>
             <a href='/cardDetails/1'>
-                <img src='{card}' alt='card'/>
+                <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
                     <p><b><i>20/10/2023</i></b></p>
@@ -38,7 +38,7 @@
         </li>
         <li class='card'>
             <a href='/cardDetails/1'>
-                <img src='{card}' alt='card'/>
+                <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
                     <p><b><i>20/10/2023</i></b></p>
@@ -48,7 +48,7 @@
         </li>
         <li class='card'>
             <a href='/cardDetails/1'>
-                <img src='{card}' alt='card'/>
+                <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
                     <p><b><i>20/10/2023</i></b></p>
@@ -58,7 +58,7 @@
         </li>
         <li class='card'>
             <a href='/cardDetails/1'>
-                <img src='{card}' alt='card'/>
+                <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
                     <p><b><i>20/10/2023</i></b></p>
@@ -68,7 +68,7 @@
         </li>
         <li class='card'>
             <a href='/cardDetails/1'>
-                <img src='{card}' alt='card'/>
+                <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
                     <p><b><i>20/10/2023</i></b></p>
@@ -78,7 +78,7 @@
         </li>
         <li class='card'>
             <a href='/cardDetails/1'>
-                <img src='{card}' alt='card'/>
+                <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
                     <p><b><i>20/10/2023</i></b></p>
@@ -88,7 +88,7 @@
         </li>
         <li class='card'>
             <a href='/cardDetails/1'>
-                <img src='{card}' alt='card'/>
+                <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
                     <p><b><i>20/10/2023</i></b></p>
@@ -98,7 +98,7 @@
         </li>
         <li class='card'>
             <a href='/cardDetails/1'>
-                <img src='{card}' alt='card'/>
+                <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
                     <p><b><i>20/10/2023</i></b></p>
@@ -108,7 +108,7 @@
         </li>
         <li class='card'>
             <a href='/cardDetails/1'>
-                <img src='{card}' alt='card'/>
+                <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
                     <p><b><i>20/10/2023</i></b></p>
@@ -118,7 +118,7 @@
         </li>
         <li class='card'>
             <a href='/cardDetails/1'>
-                <img src='{card}' alt='card'/>
+                <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
                     <p><b><i>20/10/2023</i></b></p>
@@ -128,7 +128,7 @@
         </li>
         <li class='card'>
             <a href='/cardDetails/1'>
-                <img src='{card}' alt='card'/>
+                <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
                     <p><b><i>20/10/2023</i></b></p>

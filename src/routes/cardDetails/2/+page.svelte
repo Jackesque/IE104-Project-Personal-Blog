@@ -1,10 +1,10 @@
 <script>
-    import card2 from '$lib/images/card2.png'
+    import {base} from '$app/paths'  
 </script>
 
 <div class='w-[80%] flex flex-col'>
     <div class='border-b-2 border-gray-600 pb-20'>
-        <img src='{card2}' alt=''/>
+        <img src='{base}/images/card2.png' alt=''/>
         <h1 class='font-bold text-4xl pt-5'>Đây chỉ là ví dụ cho tiêu đề, vui lòng bỏ qua </h1>
         <p class='pt-5'><i>Tác giả: Không quan trọng</i><br><br>
         <i>Cập nhật lần cuối: 26/10/2023</i><br><br>
