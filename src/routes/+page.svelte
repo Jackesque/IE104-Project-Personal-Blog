@@ -1,7 +1,7 @@
 <script>
 	import Intro from './home/Intro.svelte'
-	import MemberList from './contact/MemberList.svelte'
-	import WebAnalyze from './contact/WebAnalyze.svelte'
+	import MemberList from './about/MemberList.svelte'
+	import WebAnalyze from './about/WebAnalyze.svelte'
 	import LatestCards from './blog/LatestCards.svelte'
 	//css
 	import '../css/base.css'
@@ -19,7 +19,7 @@
 		<div>
 			<LatestCards/>
 			
-			<button class="btn btn-outline mt-10 hover:scale-[1.1]"><a href='./blog'>Xem thêm...</a></button>
+			<a href='/blog'><button class="btn btn-outline mt-10 hover:scale-[1.1]">Xem thêm...</button></a>
 		</div>
 		
     <span id="content2"></span>

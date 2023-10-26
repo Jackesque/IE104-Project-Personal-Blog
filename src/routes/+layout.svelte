@@ -1,5 +1,6 @@
 <script>
 	import Navbar from '../component/Navbar/Navbar.svelte'
+	import Footer from '../component/Footer/Footer.svelte'
 	import '../css/base.css'
 </script>
 
@@ -14,9 +15,10 @@
 		<slot />
 	</main>
 
-	<footer class='flex flex-col pt-10'>
-		<p class='text-center'>visit <a class='font-bold' href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
-	</footer>
+	<div class='mt-20 flex flex-col items-center'>
+		<Footer/>
+	</div>
+	
 </div>
 
 <style>
