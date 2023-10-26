@@ -1,6 +1,6 @@
 <script>
     import '../../css/blog.css'
-    import card from '$lib/images/card.png'    
+    import card from '$img/card.png'    
 </script>
 <div class='mt-20'> 
     <h2 class='text-4xl font-bold text-transparent bg-gradient-to-r 
