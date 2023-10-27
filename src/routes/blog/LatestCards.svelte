@@ -18,8 +18,7 @@
         </li>
         <li class='card'>
             <a href='{base}/cardDetails/2'>
-            <img src='{base}/images/card.png
-' alt='card'/>
+            <img src='{base}/images/card.png' alt='card'/>
             <div class='context'>
                 <h2>Đây là title 2</h2>
                 <p><b><i>20/10/2023</i></b></p>
@@ -39,7 +38,7 @@
         </li>
         <li class='card'>
             <a href='{base}/cardDetails/2'>
-            <img src='{base}/images/cardpng' alt='card'/>
+            <img src='{base}/images/card.png' alt='card'/>
             <div class='context'>
                 <h2>Title 4 là đây</h2>
                 <p><b><i>20/10/2023</i></b></p>
@@ -49,7 +48,7 @@
         </li>
         <li class='card'>
             <a href='{base}/cardDetails/2'>
-            <img src='{base}/images/cardpng' alt='card'/>
+            <img src='{base}/images/card.png' alt='card'/>
             <div class='context'>
                 <h2>Đây là title 5</h2>
                 <p><b><i>20/10/2023</i></b></p>
@@ -59,7 +58,7 @@
         </li>
         <li class='card'>
             <a href='{base}/cardDetails/1'>
-            <img src='{base}/images/cardpng' alt='card'/>
+            <img src='{base}/images/card.png' alt='card'/>
             <div class='context'>
                 <h2>Title 666</h2>
                 <p><b><i>20/10/2023</i></b></p>
