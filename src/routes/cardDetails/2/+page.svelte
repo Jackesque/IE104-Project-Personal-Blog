@@ -1,6 +1,7 @@
 <script>
   import { base } from '$app/paths';
   // import card2 from '$lib/images/card2.png';
+
 </script>
 
 <div class='w-[80%] flex flex-col'>
