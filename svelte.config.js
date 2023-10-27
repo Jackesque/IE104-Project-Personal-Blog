@@ -6,7 +6,7 @@ const config = {
   
   kit: {
     paths: {
-      base: 'IE104-Project-Personal-Blog',
+      base: '/IE104-Project-Personal-Blog',
     },
     
     // adapter-auto only supports some environments, see https://kit.svelte.dev/docs/adapter-auto for a list.
