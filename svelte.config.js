@@ -5,8 +5,9 @@ import { vitePreprocess } from '@sveltejs/kit/vite';
 const config = {
   kit: {
     paths: {
-      base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
-      assets: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
+      base: '/IE104-Project-Personal-Blog',
+      // base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
+      // assets: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
     },
     
     // adapter-auto only supports some environments, see https://kit.svelte.dev/docs/adapter-auto for a list.
@@ -21,8 +22,8 @@ const config = {
     }),
   },
   paths: {
-    base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
-    assets: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
+    // base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
+    // assets: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
   },
   preprocess: [vitePreprocess({})]
 }
