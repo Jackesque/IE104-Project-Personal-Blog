@@ -7,7 +7,7 @@
     from-indigo-600 via-pink-500 to-purple-600 bg-clip-text mt-5 h-[4rem]'>Những Blog còn lại</h2>
     <ul class='card-container grid gap-5 xl:grid-cols-3 mt-5 md:grid-cols-2 sm:grid-cols-1'>
         <li class='card'>
-            <a href='/cardDetails/1'>
+            <a href='{base}/cardDetails/1'>
                 <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
@@ -17,7 +17,7 @@
             </a>
         </li>
         <li class='card'>
-            <a href='/cardDetails/1'>
+            <a href='{base}/cardDetails/1'>
                 <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
@@ -27,7 +27,7 @@
             </a>
         </li>
         <li class='card'>
-            <a href='/cardDetails/1'>
+            <a href='{base}/cardDetails/1'>
                 <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
@@ -37,7 +37,7 @@
             </a>
         </li>
         <li class='card'>
-            <a href='/cardDetails/1'>
+            <a href='{base}/cardDetails/1'>
                 <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
@@ -47,7 +47,7 @@
             </a>
         </li>
         <li class='card'>
-            <a href='/cardDetails/1'>
+            <a href='{base}/cardDetails/1'>
                 <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
@@ -57,7 +57,7 @@
             </a>
         </li>
         <li class='card'>
-            <a href='/cardDetails/1'>
+            <a href='{base}/cardDetails/1'>
                 <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
@@ -67,7 +67,7 @@
             </a>
         </li>
         <li class='card'>
-            <a href='/cardDetails/1'>
+            <a href='{base}/cardDetails/1'>
                 <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
@@ -77,7 +77,7 @@
             </a>
         </li>
         <li class='card'>
-            <a href='/cardDetails/1'>
+            <a href='{base}/cardDetails/1'>
                 <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
@@ -87,7 +87,7 @@
             </a>
         </li>
         <li class='card'>
-            <a href='/cardDetails/1'>
+            <a href='{base}/cardDetails/1'>
                 <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
@@ -97,7 +97,7 @@
             </a>
         </li>
         <li class='card'>
-            <a href='/cardDetails/1'>
+            <a href='{base}/cardDetails/1'>
                 <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
@@ -107,7 +107,7 @@
             </a>
         </li>
         <li class='card'>
-            <a href='/cardDetails/1'>
+            <a href='{base}/cardDetails/1'>
                 <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
@@ -117,7 +117,7 @@
             </a>
         </li>
         <li class='card'>
-            <a href='/cardDetails/1'>
+            <a href='{base}/cardDetails/1'>
                 <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
@@ -127,7 +127,7 @@
             </a>
         </li>
         <li class='card'>
-            <a href='/cardDetails/1'>
+            <a href='{base}/cardDetails/1'>
                 <img src='{base}/images/card.png' alt='card'/>
                 <div class='context'>
                     <h2>Title</h2>
