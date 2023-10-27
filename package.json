@@ -8,8 +8,10 @@
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
 		"format": "prettier --plugin-search-dir . --write .",
 		"d": "vite dev --open",
+		"de": "vite dev --open",
 		"devo": "vite dev --open",
-    "deploy": "npm run build && npx gh-pages -d build -t true"
+    "deploy": "npm run build && npx gh-pages -d build -t true",
+		"p": "vite preview --open"
 	},
 	"devDependencies": {
 		"@fontsource/fira-mono": "^4.5.10",
