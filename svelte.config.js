@@ -3,7 +3,6 @@ import { vitePreprocess } from '@sveltejs/kit/vite';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-  
   kit: {
     paths: {
       base: '/IE104-Project-Personal-Blog',
@@ -17,12 +16,12 @@ const config = {
       assets: 'build',
       fallback: '200.html',
       precompress: false,
-      strict: true
+      strict: true,
     }),
   },
   paths: {
-    base: '/IE104-Project-Personal-Blog',
-    assets: '/IE104-Project-Personal-Blog'
+    base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
+    assets: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
   },
   preprocess: [vitePreprocess({})]
 }
