@@ -6,8 +6,6 @@ const config = {
   kit: {
     paths: {
       base: '/IE104-Project-Personal-Blog',
-      // base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
-      // assets: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
     },
     
     // adapter-auto only supports some environments, see https://kit.svelte.dev/docs/adapter-auto for a list.
@@ -16,18 +14,15 @@ const config = {
     adapter: adapter({
       pages: 'build',
       assets: 'build',
-      fallback: '200.html',
+      fallback: undefined,
       precompress: false,
       strict: true,
     }),
   },
   paths: {
-    // base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
-    // assets: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
+    base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
   },
   preprocess: [vitePreprocess({})]
 }
-
-// config.paths = { base: process.argv.includes('dev') ? '' : process.env.BASE_PATH }
 
 export default config;
