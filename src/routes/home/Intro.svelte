@@ -5,7 +5,7 @@
     </h1>
     <p class='pt-3'>Như tiêu đề và tính chất đồ án nhóm mình đăng ký, đây là blog cá nhân của nhóm<br>
     Trang web phần lớn được viết bằng framework Sveltekit, CSS Tailwind và Javascript </p>
-    <p class='pt-3'>Mọi người có thể xem mã nguồn ở <a class='text-teal-400 underline' href='https://github.com/Jackesque/IE104-Project-Personal-Blog'>Github</a>!</p>
+    <p class='pt-3'>Mọi người có thể xem mã nguồn ở <a class='text-teal-400 underline' href='https://github.com/Jackesque/IE104-Project-Personal-Blog' target="_blank">Github</a>!</p>
 
     <div class='flex gap-8 pt-5 font-bold'>
         <div class='border-2 border-gray-400 rounded-md p-3 hover:scale-[1.03] 
