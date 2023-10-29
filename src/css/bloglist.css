@@ -1,0 +1,23 @@
+.blog-list {
+    width: 30cm;
+}
+
+.blog-item:nth-child(odd) {
+    background-color: rgb(115 115 115);
+}
+
+.blog-item:nth-child(even) {
+    background-color: #000;
+}
+
+.name-column {
+    width: 40%; 
+}
+
+.other-columns {
+    width: 15%; 
+}
+
+.blog-item td:first-child a:hover {
+    color: rgb(74 222 128);
+}

@@ -7,7 +7,7 @@
     <a href='{base}/design' class='tooltip'><span>Thiết kế</span></a>
     <a href="#" class='tooltip'>Bố cục</a>
     <a href="#" class='tooltip'>Theo dõi</a>
-    <a href="#" class='tooltip'>Số liệu</a>
+    <a href='{base}/statistic' class='tooltip'>Số liệu</a>
 </div>
 
 <style>

@@ -1,13 +1,13 @@
 <script>
-    import WebDesign from "./WebDesign.svelte";
+    import Statistic from "./Statistic.svelte";
 </script>
 
 <svelte:head>    
-<title>Design</title>
+<title>Statistic</title>
 </svelte:head>
 
 <div class='flex flex-col items-center w-[80%]'>
     <div>
-        <WebDesign/>
+        <Statistic/>
     </div>
 </div>
