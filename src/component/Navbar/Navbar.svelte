@@ -35,7 +35,7 @@
 </header>
 
 <style>
-  li[aria-current='1'] a {
+  li[aria-current='1'] a, li a:hover {
     color:rgb(0, 255, 195);
   }
 </style>
