@@ -20,7 +20,7 @@
 		<div>
 			<LatestCards/>
 			
-			<a href='{base}/blog'><button class="btn btn-outline mt-10 hover:scale-[1.1]">Xem thêm...</button></a>
+			<a href='{base}/blogs'><button class="btn btn-outline mt-10 hover:scale-[1.1]">Xem thêm...</button></a>
 		</div>
 		
     <span id="content2"></span>
