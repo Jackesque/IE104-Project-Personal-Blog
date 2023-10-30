@@ -5,9 +5,22 @@ const forms = require("@tailwindcss/forms");
 /** @type {import('tailwindcss').Config}*/
 const config = {
   content: ["./src/**/*.{html,js,svelte,ts}"],
-
+  darkMode: 'class', 
   theme: {
-    extend: {}
+    extend: {
+      colors: {
+        primary: {
+          // Customize it on globals.css :root
+          200: '#dbff00',
+          300: '#00e887',
+          400: '#00e0f3',
+          500: '#00bfff',
+        },
+        dark: '#0e1111',
+        light:'#ffffff'
+      }
+    },
+    
   },
 
   plugins: [forms, typography, daisyui],
@@ -21,6 +34,7 @@ const config = {
     prefix: "", // prefix for daisyUI classnames (components, modifiers and responsive class names. Not colors)
     logs: false, // Shows info about daisyUI version and used config in the console when building your CSS
   },
+  
 };
 
 module.exports = config;
