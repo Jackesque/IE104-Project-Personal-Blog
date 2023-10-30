@@ -1,9 +1,9 @@
 <script>
-    import Statistic from "./Statistic.svelte";
+    import Statistics from "./Statistics.svelte";
 </script>
 
 <svelte:head>    
 <title>Statistic</title>
 </svelte:head>
 
-<Statistic/>
+<Statistics/>
