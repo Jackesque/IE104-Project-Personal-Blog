@@ -10,7 +10,7 @@
       <div class='flex justify-between w-4/5'>
         <ul class='flex gap-8 text-base font-medium'>
           <li class='pt-2' aria-current={$page.url.pathname === `${base}/` ? '1' : undefined}><a href='{base}/'><span>Home</span></a></li>
-          <li class='pt-2' aria-current={$page.url.pathname === `${base}/blog/` ? '1' : undefined}><a href='{base}/blog'><span>Blog</span></a></li>
+          <li class='pt-2' aria-current={$page.url.pathname === `${base}/blogs/` ? '1' : undefined}><a href='{base}/blogs'><span>Blogs</span></a></li>
           <li class='pt-2' aria-current={$page.url.pathname === `${base}/feature/` ? '1' : undefined}><a href='{base}/feature'><span>Feature</span></a></li>
           <li class='pt-2' aria-current={$page.url.pathname === `${base}/about/` ? '1' : undefined}><a href='{base}/about'><span>About</span></a></li>
           

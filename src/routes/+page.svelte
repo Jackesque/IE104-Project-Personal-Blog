@@ -2,7 +2,7 @@
 	import Intro from './home/Intro.svelte'
 	import MemberList from './about/MemberList.svelte'
 	import WebAnalyze from './about/WebAnalyze.svelte'
-	import LatestCards from './blog/LatestCards.svelte'
+	import LatestCards from './blogs/LatestCards.svelte'
   import { base } from '$app/paths'
 	//css
 	import '../css/base.css'

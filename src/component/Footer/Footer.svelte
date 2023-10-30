@@ -7,5 +7,5 @@
     <a href='{base}/design' class='hover:font-bold'><span>Thiết kế</span></a>
     <a href='{base}/' class='hover:font-bold'>Bố cục</a>
     <a href='{base}/' class='hover:font-bold'>Theo dõi</a>
-    <a href='{base}/statistics' class='hover:font-bold'>Số liệu</a>
+    <a href='{base}/statistics' class='hover:font-bold'>Thống kê</a>
 </div>
