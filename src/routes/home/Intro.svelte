@@ -1,7 +1,7 @@
 <div>
     <h1 class='text-3xl font-bold'>Chào !</h1>
     <h1 class='text-4xl font-bold pt-3'>Đây là đồ án blog cá nhân của 
-    <span class='transition-colors bg-gradient-to-tr from-primary-300 to-primary-400 dark:bg-clip-text dark:text-transparent text-5xl'>Nhóm 2</span>
+    <span class='bg-gradient-to-tr from-primary-300 to-primary-400 dark:bg-clip-text dark:text-transparent text-5xl'>Nhóm 2</span>
     </h1>
     <p class='pt-3'>Như tiêu đề và tính chất đồ án nhóm mình đăng ký, đây là blog cá nhân của nhóm<br>
     Trang web phần lớn được viết bằng framework Sveltekit, CSS Tailwind và Javascript </p>
