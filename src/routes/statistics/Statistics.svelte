@@ -66,7 +66,7 @@
             {#each searchResults as blogItem (blogItem.name)}
             <tr class="blog-item">
               <td class="p-5">
-                <a href="{base}/cardDetails/{blogItem.id}" target="_blank"><b>{blogItem.name}</b></a>
+                <a href="{base}/cardDetails/{blogItem.id}"><b>{blogItem.name}</b></a>
               </td>
               <td class="p-2">{blogItem.totalview}</td>
               <td class="p-2">{blogItem.webview}</td>
