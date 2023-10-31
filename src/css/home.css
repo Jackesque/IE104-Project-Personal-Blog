@@ -1,4 +1,10 @@
-
+#latestCards::before {
+    content: '';
+    display: block;
+    height: 70px;
+    margin-top: -55px;
+    visibility: hidden;
+  }
 
 
 

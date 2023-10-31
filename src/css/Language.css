@@ -33,7 +33,6 @@
     background: #4070f4;
     animation: progress 0.4s ease-in-out forwards;
     opacity: 0;
-    min-width:10%;
 }
 
 @keyframes progress {

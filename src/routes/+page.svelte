@@ -17,7 +17,7 @@
 	<div>
 		<Intro/>
 
-		<div>
+		<div id='latestCards'>
 			<LatestCards/>
 			
 			<a href='{base}/blogs'><button class="btn btn-outline mt-10 hover:scale-[1.1]">Xem thêm...</button></a>
