@@ -1,11 +1,13 @@
-<div>
+<div >
     <h1 class='text-3xl font-bold'>Chào !</h1>
-    <h1 class='text-4xl font-bold pt-3'>Đây là đồ án blog cá nhân của 
-    <span class='bg-gradient-to-tr from-primary-300 to-primary-400 dark:bg-clip-text dark:text-transparent text-5xl'>Nhóm 2</span>
-    </h1>
-    <p class='pt-3'>Như tiêu đề và tính chất đồ án nhóm mình đăng ký, đây là blog cá nhân của nhóm<br>
-    Trang web phần lớn được viết bằng framework Sveltekit, CSS Tailwind và Javascript </p>
-    <p class='pt-3'>Mọi người có thể xem mã nguồn ở <a class='text-teal-400 underline' href='https://github.com/Jackesque/IE104-Project-Personal-Blog' target="_blank">Github</a>!</p>
+    <div class='text-4xl font-bold'>
+        <h1 class='leading-relaxed overflow-hidden max-h-[6em]'>Đây là đồ án blog cá nhân của 
+        <mark class='bg-gradient-to-tr from-primary-300 to-primary-400 dark:bg-clip-text dark:text-transparent text-5xl'>Nhóm 2</mark>
+        </h1>
+    </div>
+    <p class='pt-3 overflow-hidden max-h-[8.5em]'>Như tiêu đề và tính chất đồ án nhóm mình đăng ký, đây là blog cá nhân của nhóm<br>
+    Trang web phần lớn được viết bằng framework Sveltekit, CSS Tailwind và Javascript <br>
+    Mọi người có thể xem mã nguồn ở <a class='text-teal-400 underline' href='https://github.com/Jackesque/IE104-Project-Personal-Blog' target="_blank">Github</a>!</p>
 
     <div class='flex gap-8 pt-5 font-bold'>
         <div class='border-2 border-gray-400 rounded-md p-3 hover:scale-[1.03] 

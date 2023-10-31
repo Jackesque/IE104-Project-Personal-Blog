@@ -5,9 +5,6 @@
 	import '../css/base.css'
 </script>
 
-<!-- <svelte:head>
-	<script src='{base}/src/component/Navbar/darkModeToggle.js'></script>
-</svelte:head> -->
 <div class="flex flex-col bg-white text-dark dark:bg-dark dark:text-white min-h-screen w-full">
 	<div class='sticky top-0 mb-10 z-10'>
 		<Navbar/>
