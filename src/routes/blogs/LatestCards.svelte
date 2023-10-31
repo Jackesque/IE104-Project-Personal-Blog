@@ -4,7 +4,7 @@
 </script>
 <div class='mt-20'>
     <h2 class='text-4xl font-bold text-transparent bg-gradient-to-r 
-    from-red-600 via-yellow-500 to-orange-400 bg-clip-text mt-5 h-[4rem]'>Blog mới nhất</h2>
+    from-red-600 via-yellow-500 to-orange-400 bg-clip-text mt-5 h-[4rem]'>🔗Blog mới nhất</h2>
     <ul class='card-container grid gap-5 xl:grid-cols-3 mt-5 md:grid-cols-2 sm:grid-cols-1'>
         <li class='card'>
             <a href='{base}/cardDetails/2'>

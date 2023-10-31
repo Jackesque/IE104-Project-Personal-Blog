@@ -1,4 +1,4 @@
-#latestCards::before {
+#homeAnchor::before {
     content: '';
     display: block;
     height: 70px;

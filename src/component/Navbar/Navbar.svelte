@@ -1,6 +1,9 @@
 <script>
   import { page } from "$app/stores";
   import { base } from '$app/paths';
+
+  //css
+  import '../../css/componentcss/Navbar.css'
 </script>
 
 <header>
@@ -26,7 +29,7 @@
         </div>
         
         <!-- right-side navbar -->
-        <div class='btn bg-white border-[1px] border-gray-300 dark:bg-dark hover:bg-teal-300' onclick="themeSwitch()">
+        <div class='btn bg-white border-[1px] border-gray-300 dark:bg-dark hover:bg-teal-300 dark:hover:bg-slate-400' onclick="themeSwitch()">
           <!-- Sun svg -->
           <svg class='cursor-pointer dark:hidden' stroke="black" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1.3em" width="1.3em" xmlns="http://www.w3.org/2000/svg">
             <circle cx="12" cy="12" r="5"></circle>
@@ -49,34 +52,3 @@
 
 </header>
 
-<style>
-  li[aria-current='1'] a, li a:hover {
-    color:rgb(0, 255, 195);
-  }
-
-  @media (max-width:640px) {
-
-
-    #check:checked ~ .navlist {
-      display:block;
-      content:'';
-      position:absolute;
-      top:75px;
-      left:0px;
-      right:0px;
-      bottom:0px;
-    }
-
-    .navlist ul {
-      padding:2em;
-      display:grid;
-      grid-column: 1;
-    }
-
-    .navlist ul li {
-      display:flex;
-      justify-content: center;
-    }
-  }
-
-</style>

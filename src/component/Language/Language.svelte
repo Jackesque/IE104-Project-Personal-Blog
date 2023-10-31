@@ -1,5 +1,5 @@
 <script>
-    import '../../css/Language.css'
+    import '../../css/componentcss/Language.css'
 </script>
 
 <div class="language-container bg-gray-400 text-white dark:bg-white dark:text-black">

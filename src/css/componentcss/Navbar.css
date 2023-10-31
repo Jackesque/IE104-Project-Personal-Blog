@@ -1,0 +1,28 @@
+li[aria-current='1'] a, header li a:hover {
+    color:rgb(0, 255, 195);
+  }
+
+  @media (max-width:640px) {
+
+
+#check:checked ~ .navlist {
+    display:block;
+    content:'';
+    position:absolute;
+    top:75px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+}
+
+.navlist ul {
+    padding:2em;
+    display:grid;
+    grid-column: 1;
+}
+
+.navlist ul li {
+    display:flex;
+    justify-content: center;
+}
+}

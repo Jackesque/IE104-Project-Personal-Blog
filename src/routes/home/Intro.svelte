@@ -18,7 +18,7 @@
         </div>
     </div>
     <div class='flex justify-center'>
-        <a href='#latestCards'>
+        <a href='#homeAnchor'>
             <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" class=" h-8 w-8 animate-bounce md:h-10 md:w-10 hover:text-primary-300" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="48" d="M112 268l144 144 144-144M256 392V100"></path></svg>
         </a>
         

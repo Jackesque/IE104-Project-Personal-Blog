@@ -17,17 +17,18 @@
 	<div>
 		<Intro/>
 
-		<div id='latestCards'>
-			<LatestCards/>
+		<div id='homeAnchor'>
+			<WebAnalyze/>
 			
-			<a href='{base}/blogs'><button class="btn btn-outline mt-10 hover:scale-[1.1]">Xem thêm...</button></a>
 		</div>
 		
     <span id="content2"></span>
 		<MemberList/>
     
     <span id="content3"></span>
-		<WebAnalyze/>
+		<LatestCards/>
+				
+		<a href='{base}/blogs'><button class="btn btn-outline mt-10 hover:scale-[1.1] hover:bg-primary-200">Xem thêm...</button></a>
 	</div>
 </div>
 	
