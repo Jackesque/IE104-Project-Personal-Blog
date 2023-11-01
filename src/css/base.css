@@ -16,6 +16,10 @@
     scroll-behavior: smooth;
 }
 
+p, h1, h2, a, pre {
+    transition-duration:1s;
+}
+
 .container {
     display:flex;
     width:80%;

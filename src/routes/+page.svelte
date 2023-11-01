@@ -28,7 +28,7 @@
     <span id="content3"></span>
 		<LatestCards/>
 				
-		<a href='{base}/blogs'><button class="btn btn-outline mt-10 hover:scale-[1.1] hover:bg-primary-200">Xem thêm...</button></a>
+		<a href='{base}/blogs'><button class="btn btn-outline mt-10 hover:scale-[1.1] bg-gradient-to-tr hover:from-primary-300 hover:to-primary-400">Xem thêm...</button></a>
 	</div>
 </div>
 	
