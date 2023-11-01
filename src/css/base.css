@@ -9,8 +9,8 @@
         -webkit-background-clip: text;
         background-clip: text;
     }
+    
 }
-
 
 * {
     scroll-behavior: smooth;

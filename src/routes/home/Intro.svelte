@@ -27,8 +27,9 @@
             <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" class=" h-8 w-8 animate-bounce md:h-10 md:w-10 hover:text-primary-300" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="48" d="M112 268l144 144 144-144M256 392V100"></path></svg>
         </a>
     </div>
-    <div class='absolute bottom-0 right-10 translate-y-[30%] translate-x-[15%] sm:w-[45em] lg:w-[60em] z-0'>
+    <div class=' absolute bottom-0 right-10 translate-y-[30%] translate-x-[15%] sm:w-[45em] lg:w-[60em] z-0'>
         <img class='hidden dark:hidden sm:block opacity-70 w-full' src='{base}/images/splash.jpg' alt='splash'/>
         <img class='hidden dark:sm:block opacity-70 w-full' src='{base}/images/splash-2.png' alt='splash'/>
     </div>
+
 </div>
