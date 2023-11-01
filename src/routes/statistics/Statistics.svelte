@@ -50,7 +50,7 @@
       <div class="relative mt-1 self-start">
         <input
         type="text"
-        class="w-full rounded-md bg-black sm:max-w-xs px-4 py-2 pl-9 placeholder-gray-400 text-sm md:text-base border border-gray-600 focus:border-green-500 focus:ring-0"
+        class="w-full rounded-md bg-white dark:bg-black sm:max-w-xs px-4 py-2 pl-9 placeholder-gray-600 dark:placeholder-gray-400 text-sm md:text-base border border-gray-600 focus:border-green-500 focus:ring-0"
         placeholder="Search..."
         bind:value={searchValue}
         on:input={searchblog}
