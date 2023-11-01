@@ -5,7 +5,7 @@
     import '../../css/blog.css'
 </script>
 <svelte:head>
-    <title>Blog</title>
+    <title>Blogs</title>
 </svelte:head>
 
 <div class='container'>

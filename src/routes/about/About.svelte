@@ -7,7 +7,7 @@
     import '../../css/contact.css'
 </script>
 <svelte:head>
-    <title>Contact</title>
+    <title>About</title>
 </svelte:head>
 
 <div class='flex flex-col items-center w-[80%]'>
