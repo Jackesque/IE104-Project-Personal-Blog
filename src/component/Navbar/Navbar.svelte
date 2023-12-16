@@ -17,7 +17,7 @@
   
 <header>
   <div>
-    <div class='w-full h-2 bg-gradient-to-r from-primary-200 via-primary-300 to-primary-400'></div>
+    <div class='w-full h-2 bg-gradient-to-r from-primary-200 via-primary-300 to-primary-400 z-50'></div>
     <div class='flex justify-center bg-white dark:bg-dark dark:text-white pb-3 pt-4'>
       <div class='flex justify-between w-4/5'>
         <!-- left-side navbar -->
@@ -31,7 +31,6 @@
           <ul class='flex gap-8 text-base font-medium bg-white dark:bg-dark'>
             <li aria-current={$page.url.pathname === `${base}/` ? '1' : undefined}><a href='{base}/'><span>Home</span></a></li>
             <li aria-current={$page.url.pathname === `${base}/blogs/` ? '1' : undefined}><a href='{base}/blogs'><span>Blogs</span></a></li>
-            <li aria-current={$page.url.pathname === `${base}/feature/` ? '1' : undefined}><a href='{base}/feature'><span>Feature</span></a></li>
             <li aria-current={$page.url.pathname === `${base}/about/` ? '1' : undefined}><a href='{base}/about'><span>About</span></a></li>   
           </ul>
         </div>

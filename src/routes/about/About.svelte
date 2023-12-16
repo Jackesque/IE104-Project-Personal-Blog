@@ -13,7 +13,5 @@
 <div class='flex flex-col items-center w-[80%]'>
     <div>
         <MemberList/>
-        
-        <WebAnalyze/>
     </div>
 </div>
