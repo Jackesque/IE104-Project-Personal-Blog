@@ -7,7 +7,7 @@
         <span class="title">Svelte</span>
         <div class="skill-bar bg-slate-300">
             <span class="skill-per" style='width:86.2%'>
-                <span class="tooltip">86.2%</span>
+                <span class="tooltip">85.5%</span>
             </span>
         </div>
     </div>
@@ -15,7 +15,7 @@
         <span class="title">Javascript</span>
         <div class="skill-bar bg-slate-300">
             <span class="skill-per" style='animation-delay: 0.1s; width:12.3%'>
-                <span class="tooltip">7.3%</span>
+                <span class="tooltip">8.2%</span>
             </span>
         </div>
     </div>
@@ -23,7 +23,7 @@
         <span class="title">CSS</span>
         <div class="skill-bar bg-slate-300">
             <span class="skill-per javascript red" style='animation-delay: 0.2s; width:10.4%'>
-                <span class="tooltip">5.4%</span>
+                <span class="tooltip">5.2%</span>
             </span>
         </div>
     </div>
