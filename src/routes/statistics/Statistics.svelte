@@ -43,20 +43,20 @@
 <title>Statistics</title>
 </svelte:head>
 
-<div class='flex flex-col items-center w-[80%]'>
+<div class="flex flex-col items-center w-full md:w-[80%]">
   <div>
-    <span class='text-4xl font-bold'>Thống kê Blogs</span>
+    <span class="text-4xl font-bold">Thống kê Blogs</span>
     <div class="flex flex-col mt-4 gap-4">
       <div class="relative mt-1 self-start">
         <input
-        type="text"
-        class="w-full rounded-md bg-white dark:bg-black sm:max-w-xs px-4 py-2 pl-9 placeholder-gray-600 dark:placeholder-gray-400 text-sm md:text-base border border-gray-600 focus:border-green-500 focus:ring-0"
-        placeholder="Search..."
-        bind:value={searchValue}
-        on:input={searchblog}
+          type="text"
+          class="w-full rounded-md bg-white dark:bg-black sm:max-w-xs px-4 py-2 pl-9 placeholder-gray-600 dark:placeholder-gray-400 text-sm md:text-base border border-gray-600 focus:border-green-500 focus:ring-0"
+          placeholder="Search..."
+          bind:value={searchValue}
+          on:input={searchblog}
         />
       </div>
-      <div class="blog-list">
+      <div class="blog-list overflow-x-auto w-full">
         <table class="w-full">
           <thead>
             <tr>
@@ -79,7 +79,8 @@
             {/each}
           </tbody>
         </table>
-      </div>        
+      </div>
     </div>
   </div>
 </div>
+

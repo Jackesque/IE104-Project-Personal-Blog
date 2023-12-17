@@ -7,8 +7,7 @@
       <span class="text-2xl font-bold hidden dark:block">Dark Mode</span>
       <p class="mb-4 text-sm text-gray-600 dark:text-gray-300">Font Family: Inter</p>
     </div>
-    <div class="flex items-center flex-col gap-4" >
-      <div class="colors-row-1 flex items-center gap-10">
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4" >
         <div class="flex items-center gap-2">
           <div class="h-10 w-10 rounded shadow-none border border-gray-600 shrink-0 bg-white"></div>
           <div class="flex flex-col">
@@ -31,26 +30,30 @@
           </div>
         </div>
         <div class="flex items-center gap-2">
-          <div class="h-10 w-10 rounded shadow-none border border-gray-600 shrink-0 bg-green-500"></div>
+          <div class="h-10 w-10 rounded shadow-none border border-gray-600 shrink-0 bg-lime-500"></div>
           <div class="flex flex-col">
             <p>Primary 300</p>
+            <p class="text-sm text-gray-600 dark:text-gray-400">#dbff11</p>
+          </div>
+        </div>
+        <div class="flex items-center gap-2">
+          <div class="h-10 w-10 rounded shadow-none border border-gray-600 shrink-0 bg-green-500"></div>
+          <div class="flex flex-col">
+            <p>Primary 400</p>
             <p class="text-sm text-gray-600 dark:text-gray-400">#00e887</p>
           </div>
         </div>
-      </div>
-      
-      <div class="colors-row-2 flex items-center gap-10">
         <div class="flex items-center gap-2">
           <div class="h-10 w-10 rounded shadow-none border border-gray-600 shrink-0 bg-cyan-400"></div>
           <div class="flex flex-col">
-            <p>Primary 400</p>
+            <p>Primary 500</p>
             <p class="text-sm text-gray-600 dark:text-gray-400">#00e0f3</p>
           </div>
         </div>
         <div class="flex items-center gap-2">
           <div class="h-10 w-10 rounded shadow-none border border-gray-600 shrink-0 bg-cyan-600"></div>
           <div class="flex flex-col">
-            <p>Primary 500</p>
+            <p>Primary 600</p>
             <p class="text-sm text-gray-600 dark:text-gray-400">#00bfff</p>
           </div>
         </div>
@@ -61,7 +64,6 @@
             <p class="text-sm text-gray-600 dark:text-gray-400">#00e0f3 to #00bfff</p>
           </div>
         </div>
-      </div>
     </div>
   </div>
 </div>
