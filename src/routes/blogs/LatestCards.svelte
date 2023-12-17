@@ -10,7 +10,7 @@
             <a href='{base}/cardDetails/1'>
             <img src='{base}/blogimg/1.jpg' alt='card'/>
             <div class='context'>
-                <h2>1 Khám Phá Hương Vị Đặc Trưng Ẩm Thực Địa Phương Nam Ý</h2>
+                <h2>Khám Phá Hương Vị Đặc Trưng Ẩm Thực Địa Phương Nam Ý</h2>
                 <p>Những ai đam mê ẩm thực thế giới đều biết rằng Ý không chỉ nổi tiếng với thắng cảnh tuyệt đẹp mà còn có một nền ẩm thực phong phú và đa dạng. Trong chuyến hành trình đầy mê hoặc này, chúng ta sẽ cùng nhau khám phá vẻ đẹp của ẩm thực địa phương ở Miền Nam Ý - nơi hương vị và bí quyết nấu nướng từng làm say đắm những thực khách khó tính nhất.</p>
             </div>
             </a>
@@ -29,7 +29,7 @@
                 <img class='w-full h-60' src='{base}/blogimg/3.jpg' alt='card'/>
                 <div class='context'>
                     <h2>3 Lối Sống Khỏe Mạnh</h2>
-                    <p>Trên thế giới này, có những điểm đến khiến con người mê đắm bởi vẻ đẹp huyền bí và sức mạnh tự nhiên đầy quyến rũ. Trong hành trình khám phá vùng nước rộng lớn châu Phi, Thác Victoria ở Zimbabwe là một điểm đến không thể bỏ qua. Với dòng nước sôi trào và cảm giác mãnh liệt, thác nước Victoria là biểu tượng về sự hoang sơ và mê hoặc mọi du khách đặt chân đến đây.</p>
+                    <p>Bài viết sẽ chia sẻ những cách tiếp cận thực tế để áp dụng phong cách sống bền vững trong cuộc sống hàng ngày, bao gồm các hành động nhỏ như tái sử dụng, tiết kiệm năng lượng, ăn uống bền vững, và việc tạo ra môi trường sống lành mạnh cho bản thân và cộng đồng.</p>
                 </div>
               </a>
         </li>

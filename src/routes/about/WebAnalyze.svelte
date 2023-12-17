@@ -45,7 +45,7 @@
   </div>
   
   <div>
-    <h1 class='text-3xl mt-10 mb-5'><b>Cách để host local web</b></h1>
+    <h1 class='text-3xl mt-10 mb-5'>Cách để host local web</h1>
     <div class="mockup-code">
       <pre data-prefix="$" class='text-white'><code>cd IE104-Project-Personal-Blog</code></pre>
       <pre data-prefix=""><code></code></pre>

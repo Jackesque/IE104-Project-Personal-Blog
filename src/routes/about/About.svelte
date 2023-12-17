@@ -3,8 +3,6 @@
     import MemberList from "./MemberList.svelte"
     import WebAnalyze from "./WebAnalyze.svelte";
 
-    //css
-    import '../../css/contact.css'
 </script>
 <svelte:head>
     <title>About</title>
