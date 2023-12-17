@@ -7,7 +7,7 @@
   <div class='w-[80%] flex flex-col'>
     <div class='border-b-2 border-gray-600 pb-20'>
       <img class='w-full' src='{base}/blogimg/5.jpg' alt='card5'/>
-      <h1 class='font-bold text-4xl pt-5'>5 Chiến lược Hiệu Quả để Quản Lý Thời Gian và Tăng Năng Suất Hằng Ngày</h1>
+      <h1 class='font-bold text-4xl pt-5'>Chiến lược Hiệu Quả để Quản Lý Thời Gian và Tăng Năng Suất Hằng Ngày</h1>
       <p class='pt-5'><i>Tác giả: TDT</i><br><br>
         <i>Cập nhật lần cuối: 11:38 16/12/2023</i><br><br>
         Nội dung: Quản lý thời gian không chỉ là việc phân chia thời gian một cách hợp lý, mà còn là kỹ năng tổ chức và tập trung để hoàn thành công việc hiệu quả. Trong bài viết này, chúng ta sẽ khám phá 5 chiến lược đơn giản nhưng hiệu quả để tăng cường khả năng quản lý thời gian và nâng cao năng suất trong công việc và cuộc sống hàng ngày. <br><br>

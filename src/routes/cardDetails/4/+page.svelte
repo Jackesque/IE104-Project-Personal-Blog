@@ -7,7 +7,7 @@
   <div class='w-[80%] flex flex-col'>
     <div class='border-b-2 border-gray-600 pb-20'>
       <img class='w-full' src='{base}/blogimg/4.jpg' alt='card2'/>
-      <h1 class='font-bold text-4xl pt-5'>Sức Mạnh của Nghệ Thuật Trong Việc Nuôi Dạy Trẻ Em: Khám Phá Cách Nghệ Thuật Góp Phần Trong Sự Phát Triển Tư Duy và Sáng Tạo Của Trẻ </h1>
+      <h1 class='font-bold text-4xl pt-5'>Sức Mạnh của Nghệ Thuật Trong Việc Nuôi Dạy Trẻ Em: Khám Phá Cách Nghệ Thuật Góp Phần Trong Sự Phát Triển Tư Duy và Sáng Tạo Của Trẻ</h1>
       <p class='pt-5'><i>Tác giả: TDT</i><br><br>
         <i>Cập nhật lần cuối: 11:30 16/12/2023</i><br><br>
         Nội dung: Việc khơi gợi và phát triển sự sáng tạo của trẻ em là một phần quan trọng trong việc nuôi dạy và phát triển khả năng tư duy của họ. Trong bài viết này, chúng ta sẽ khám phá sức mạnh của nghệ thuật đối với quá trình hình thành và phát triển của trẻ em. Bằng cách khuyến khích sự sáng tạo thông qua hoạt động nghệ thuật đa dạng như vẽ tranh, âm nhạc, diễn xuất hay sáng tạo, chúng ta có thể tạo ra một môi trường thúc đẩy sự phát triển toàn diện cho trẻ. <br><br>

@@ -15,11 +15,36 @@
             <p class="text-sm text-gray-600 dark:text-gray-400">#ffffff</p>
           </div>
         </div>
-        <div class="flex items-center gap-2">
-          <div class="h-10 w-10 rounded shadow-none border border-gray-600 shrink-0 bg-black"></div>
-          <div class="flex flex-col">
-            <p>Dark Background</p>
-            <p class="text-sm text-gray-600 dark:text-gray-400">#0e1111</p>
+        <div class="flex items-center flex-col gap-4" >
+          <div class="colors-row-1 flex items-center gap-10">
+            <div class="flex items-center gap-2">
+              <div class="h-10 w-10 rounded shadow-none border border-gray-600 shrink-0 bg-white"></div>
+              <div class="flex flex-col">
+                <p>White Background</p>
+                <p class="text-sm text-gray-600 dark:text-gray-400">#ffffff</p>
+              </div>
+            </div>
+            <div class="flex items-center gap-2">
+              <div class="h-10 w-10 rounded shadow-none border border-gray-600 shrink-0 bg-black"></div>
+              <div class="flex flex-col">
+                <p>Dark Background</p>
+                <p class="text-sm text-gray-600 dark:text-gray-400">#0e1111</p>
+              </div>
+            </div>
+            <div class="flex items-center gap-2">
+              <div class="h-10 w-10 rounded shadow-none border border-gray-600 shrink-0 bg-lime-300"></div>
+              <div class="flex flex-col">
+                <p>Primary 200</p>
+                <p class="text-sm text-gray-600 dark:text-gray-400">#dbff00</p>
+              </div>
+            </div>
+            <div class="flex items-center gap-2">
+              <div class="h-10 w-10 rounded shadow-none border border-gray-600 shrink-0 bg-green-500"></div>
+              <div class="flex flex-col">
+                <p>Primary 300</p>
+                <p class="text-sm text-gray-600 dark:text-gray-400">#00e887</p>
+              </div>
+            </div>
           </div>
         </div>
         <div class="flex items-center gap-2">
@@ -67,4 +92,3 @@
     </div>
   </div>
 </div>
-

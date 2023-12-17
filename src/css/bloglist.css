@@ -1,7 +1,3 @@
-.blog-list {
-    width: 30cm;
-}
-
 .blog-item:nth-child(odd) {
     background-color: rgb(115 115 115);
 }
