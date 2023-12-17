@@ -7,7 +7,7 @@
   <div class='w-[80%] flex flex-col'>
     <div class='border-b-2 border-gray-600 pb-20'>
       <img class='w-full' src='{base}/blogimg/3.jpg' alt='card2'/>
-      <h1 class='font-bold text-4xl pt-5'>Hành Trình Khám Phá Hương Vị Đặc Trưng Của Ẩm Thực Địa Phương Ở Miền Nam Ý </h1>
+      <h1 class='font-bold text-4xl pt-5'>Lối Sống Khỏe Mạnh</h1>
       <p class='pt-5'><i>Tác giả: TDT</i><br><br>
         <i>Cập nhật lần cuối: 11:00 16/12/2023</i><br><br>
         Nội dung: Đối mặt với thế giới tiêu thụ và tiến bộ công nghệ, nhiều người ngày nay đang tìm kiếm cách sống đơn giản hơn và bền vững hơn. Trong bài viết này, chúng ta sẽ cùng nhau khám phá những gợi ý thiết thực và đơn giản để áp dụng phong cách sống ít động cơ hơn, từ việc giảm thiểu lãng phí đến việc tận dụng tối đa tài nguyên có sẵn, nhằm mục tiêu xây dựng một cuộc sống bền vững và an yên hơn.<br><br>
