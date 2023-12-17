@@ -29,7 +29,6 @@
 </svelte:head>
 
 <div class="flex flex-col items-center w-full md:w-[80%]">
-  <div>
     <span class="text-4xl font-bold">Thống kê Blogs</span>
     <div class="flex flex-col mt-4 gap-4">
       <div class="relative mt-1 self-start">
@@ -65,33 +64,6 @@
           </tbody>
         </table>
       </div>
-    </div>
-    <div class="w-full text-center">
-      <table>
-        <thead>
-          {#if filteredBlog.length !== 0}
-          <tr>
-            <th class="p-5 border border-gray-600">Name</th>
-            <th class="p-5 border border-gray-600">Total Views</th>
-            <th class="p-5 border border-gray-600">Web Views</th>
-            <th class="p-5 border border-gray-600">Likes</th>
-          </tr>
-          {/if}
-        </thead>
-        <tbody>
-          {#each searchResults as blogItem (blogItem.name)}
-          <tr class="blog-item">
-            <td class="p-5 text-left">
-              <a href="{base}/cardDetails/{blogItem.id}"><b>{blogItem.name}</b></a>
-            </td>
-            <td class="p-5">{blogItem.totalview}</td>
-            <td class="p-5">{blogItem.webview}</td>
-            <td class="p-5">{blogItem.like}</td>
-          </tr>
-          {/each}
-        </tbody>
-      </table>
-    </div>        
-  </div>
+    </div>  
 </div>
 
