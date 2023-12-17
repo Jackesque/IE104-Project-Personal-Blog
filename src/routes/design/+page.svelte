@@ -1,13 +1,6 @@
 <script>
-    import WebDesign from "./WebDesign.svelte";
+  import WebDesign from "./WebDesign.svelte";
 </script>
 
-<svelte:head>    
-<title>Design</title>
-</svelte:head>
+<WebDesign/>
 
-<div class='flex flex-col items-center w-[80%]'>
-    <div>
-        <WebDesign/>
-    </div>
-</div>
