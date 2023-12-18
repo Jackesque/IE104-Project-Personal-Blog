@@ -5,10 +5,10 @@
   let blog = [
   { name: "Hành Trình Khám Phá Hương Vị Đặc Trưng Của Ẩm Thực Địa Phương Ở Miền Nam Ý", totalview: "100", webview: "100", like: "20", id: "1" },
   { name: "Vẻ Đẹp Tự Nhiên Thác Victoria, Zimbabwe", totalview: "50", webview: "50", like: "10", id: "2" },
-  { name: "Lối Sống Khỏe Mạnh", totalview: "50", webview: "50", like: "10", id: "2" },
-  { name: "Sức Mạnh của Nghệ Thuật Trong Việc Nuôi Dạy Trẻ Em: Khám Phá Cách Nghệ Thuật Góp Phần Trong Sự Phát Triển Tư Duy và Sáng Tạo Của Trẻ", totalview: "50", webview: "50", like: "10", id: "2" },
-  { name: "Chiến lược Hiệu Quả để Quản Lý Thời Gian và Tăng Năng Suất Hằng Ngày", totalview: "400", webview: "400", like: "80", id: "1" },
-  { name: "Sức Mạnh Sáng Tạo của Trí Tuệ Nhân Tạo: Khám Phá Thế Giới Của Tranh Nghệ Thuật Tạo Bởi AI", totalview: "60", webview: "60", like: "6", id: "2" },
+  { name: "Lối Sống Khỏe Mạnh", totalview: "50", webview: "50", like: "10", id: "3" },
+  { name: "Sức Mạnh của Nghệ Thuật Trong Việc Nuôi Dạy Trẻ Em: Khám Phá Cách Nghệ Thuật Góp Phần Trong Sự Phát Triển Tư Duy và Sáng Tạo Của Trẻ", totalview: "50", webview: "50", like: "10", id: "4" },
+  { name: "Chiến lược Hiệu Quả để Quản Lý Thời Gian và Tăng Năng Suất Hằng Ngày", totalview: "400", webview: "400", like: "80", id: "5" },
+  { name: "Sức Mạnh Sáng Tạo của Trí Tuệ Nhân Tạo: Khám Phá Thế Giới Của Tranh Nghệ Thuật Tạo Bởi AI", totalview: "60", webview: "60", like: "6", id: "6" },
   ];
   
   let searchValue = "";
