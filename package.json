@@ -10,7 +10,7 @@
 		"d": "vite dev --open",
 		"de": "vite dev --open",
 		"devo": "vite dev --open",
-    "deploy": "npm run build && npx gh-pages -d build -t true",
+		"deploy": "npm run build && npx gh-pages -d build -t true",
 		"p": "vite preview --open"
 	},
 	"devDependencies": {
@@ -32,7 +32,7 @@
 		"prettier-plugin-svelte": "^2.10.1",
 		"svelte": "^4.0.5",
 		"tailwindcss": "^3.3.2",
-		"vite": "^4.4.2"
+		"vite": "^5.0.10"
 	},
 	"type": "module"
 }
